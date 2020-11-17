@@ -31,14 +31,14 @@ homepage:            https://github.com/flox-examples/haskell-library
 license:             NONE
 
 -- The file containing the license text.
--- license-file:        
+-- license-file:
 
 -- The package author(s).
 author:              Flox User
 
 -- An email address to which users can send suggestions, bug reports, and
 -- patches.
--- maintainer:          
+-- maintainer:
 
 -- A copyright notice.
 -- copyright:

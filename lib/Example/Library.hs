@@ -1,8 +1,8 @@
 {- |
 Description : Example library for Flox
 Copyright   : (c) Flox User, 2020
-License     : 
-Maintainer  : 
+License     :
+Maintainer  :
 
 This module defines some example functions.
 -}
