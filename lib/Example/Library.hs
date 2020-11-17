@@ -8,16 +8,13 @@ This module defines some example functions.
 -}
 
 module Example.Library
-  ( language
-  , helloString
+  ( helloString
   , doWork
+  , module Example.Library.Language
   ) where
 
+import Example.Library.Language
 import Acme.Missiles (launchMissiles)
-
--- | The language this library is written in. This will always be @"Haskell"@
-language :: String
-language = "Haskell"
 
 -- | Returns a hello world string
 helloString :: String -> String

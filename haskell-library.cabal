@@ -21,11 +21,14 @@ synopsis:            An example Haskell library for Flox
 -- A longer description of the package.
 -- description:
 
+-- URL for the project homepage or repository.
+homepage:            https://github.com/flox-examples/haskell-library
+
 -- A URL where users can report bugs.
 -- bug-reports:
 
 -- The license under which the package is released.
--- license:             
+license:             NONE
 
 -- The file containing the license text.
 -- license-file:        
@@ -52,7 +55,7 @@ library
   exposed-modules:     Example.Library
 
   -- Modules included in this library but not exported.
-  -- other-modules:
+  other-modules:       Example.Library.Language
 
   -- LANGUAGE extensions used by modules in this package.
   -- other-extensions:
