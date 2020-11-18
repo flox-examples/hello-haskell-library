@@ -1,4 +1,4 @@
-# Revision history for haskell-library
+# Revision history for hello-haskell-library
 
 ## 0.1.0.0 -- YYYY-mm-dd
 
